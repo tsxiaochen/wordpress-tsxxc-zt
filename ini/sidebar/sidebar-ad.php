@@ -1,0 +1,1 @@
+<div id="wpcom-image-ad-4" class="widget widget_image_ad"> <a href="<?php echo sc_tsxcc( 'ts_banner1lianj' ); ?>" target="_blank"> <img class="j-lazy" src="" data-original="<?php echo sc_tsxcc( 'ts_banner1' ); ?>"/> </a> </div>

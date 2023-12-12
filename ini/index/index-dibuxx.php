@@ -1,0 +1,1 @@
+<?php timer_stop(1); ?> 秒 / 查询<?php echo get_num_queries(); ?>次
